@@ -658,8 +658,12 @@ routes: Mendefinisikan peta rute untuk aplikasi.
 
 ## Screenshot
 Contoh :
-![Lampiran Form](Login.png)
-![Lampiran Hasil](HomePage.png)
-![Lampiran Form](AboutPage.png)
-![Lampiran Hasil](sidebar.png)
+![Lampiran Form](Login.png)![login](https://github.com/user-attachments/assets/ec166b02-d836-4971-8fca-9909b42ea786)
+
+![Lampiran Hasil](HomePage.png)![Cuplikan layar 2024-09-24 181944](https://github.com/user-attachments/assets/09536900-fd2e-4b3f-9294-5231139ef8e8)
+
+![Lampiran Form](AboutPage.png)![Cuplikan layar 2024-09-24 182806](https://github.com/user-attachments/assets/67b0139a-2089-4b14-9de8-a1de68a56658)
+
+![Lampiran Hasil](sidebar.png)![Cuplikan layar 2024-09-24 182053](https://github.com/user-attachments/assets/13691cb0-dc54-4ac0-b220-8313b28d6041)
+
 
